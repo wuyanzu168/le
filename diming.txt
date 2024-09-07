@@ -1,0 +1,6 @@
+beijing
+guangdong
+fujian
+shanxi
+hangzhou
+xiamen
